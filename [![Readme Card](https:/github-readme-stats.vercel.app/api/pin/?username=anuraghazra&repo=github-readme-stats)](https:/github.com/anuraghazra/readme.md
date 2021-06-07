@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imadenigma&repo=github-readme-stats)](https://github.com/imadenigma/github-readme-stats)
+[![Les Stats GitHub de ImadEnigma](https://github-readme-stats.vercel.app/api?username=imadenigma)](https://github.com/anuraghazra/github-readme-stats)
