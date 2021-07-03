@@ -14,7 +14,7 @@
 - 🌱 I’m currently Minecraft developer.
 - 🤠 I like developing, watching movies and listening to music 🤘
 - 💬 How to reach me: Johan Liebert#8263 or in case i changed the username that's the id: 558341351775666182.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend almost 10hrs per day in front of my computer 💻.
 
 
