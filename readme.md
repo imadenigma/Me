@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m 16 yo.
+- 🔭 I’m 17 yo.
 - 🌱 I’m currently Minecraft developer.
 - 🤠 I like developing, watching movies and listening to music 🤘
 - 💬 How to reach me: Johan Liebert#8263 or in case i changed the username that's the id: 558341351775666182.
